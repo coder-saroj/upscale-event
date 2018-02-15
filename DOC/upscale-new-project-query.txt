@@ -1,0 +1,85 @@
+->Can you please describe the features of user Sign-up / Log-in ?That means which features are available for a registered user.
+
+-> Who will upload event?Administrator of the web site OR any registered user will upload events? 
+
+-> Describe below poinst of  the Friends Sheet 
+What are the third party applications you need, to be integrated with this website?
+What is the functionalities of All Images, Events, Food etc in this sheet?
+
+-> Can you please elaborate briefly "My Special Culture" Sheet ?
+ 
+-> What is your idea about "NEW PLACES","RECOMENDED","MY PLACES". Please describe in details ?
+
+-> Describe  "Tickets  for  events "  under Events Sheets?
+-> How to get the friends count and popularity concept under Expanded event sheet?
+
+
+
+================================ Query ==================================
+
+
+Queries of Upscale New Project:
+
+->Can you please describe the features of user Sign-up / Log-in ?That means which features are available for a registered user.
+when signing up the user will need
+
+Email
+mobile number
+user name
+select location: default: Brooklyn (Other options: Bronx/ Westchester, Queens/ L.I, Staten Island, Harlem/ Manhattan)
+password
+re-enter password
+
+(they will get an email and sms. they will have to click on confirmation link)
+
+under "My Culture"
+- that will be their user profile
+- They will see events or places they save
+
+
+-> Who will upload event?Administrator of the web site OR any registered user will upload events?
+any registered user can upload event. but admin has the right to delete or edit all events
+
+-> Describe below poinst of  the Friends Sheet 
+What are the third party applications you need, to be integrated with this website?
+What is the functionalities of All Images, Events, Food etc in this sheet?
+
+This sheet functions similar to instagram. however when a user is adding an image they have to select a category: Events, food, etc
+
+if this is too hard to build there are third part applications that we can buy and integrate it into the website to receive the same result.
+
+-> Can you please elaborate briefly "My Special Culture" Sheet ?
+you mean "My Upscale Culture?" it functions as the user profile page where they can find all the saved events etc. It will be named "My Culture"
+ 
+-> What is your idea about "NEW PLACES","RECOMMENDED","MY PLACES". Please describe in details ?
+"Places" is a bar, restaurant, or other venue. admin will be able to select whether to make it a "feature, new, recommended" etc
+
+if a user select to make it one of their favorite places then it will appear under "My Places" under their "My Culture" page
+
+-> Describe  "Tickets  for  events "  under Events Sheets?
+when a user is adding an event, they will add the ticket url there. I am thinking of finding a way to integrate eventbrite into the website so it will make it easier for users to create event tickets and purchase tickets on eventbrite.com without leaving the website. Eventbrite has an api so you can research
+
+-> How to get the friends count and popularity concept under Expanded event sheet?
+
+The website will be built on a social network platform so I can invite my friends to join. Other users may request to follow me as well (similar to instagram).
+
+If users i am following or are following me, save an event, select "i'm interested" or rsvp then that will go towards the "friends count." each occurrence is one count
+
+Additional
+(1) RSVP Function
+
+If i am the user who added the event. I will be able to see the list of names of all the users that rsvp for the event. I can email the list or download as a csv file.
+Also when adding the event I can add the following to rsvpp function:
+
+- Will you like to add RSVPs? []Yes []No
+if yes is selected then user will answer the following
+
+- Enter total quantity of rsvp
+- Enter total quantity for each user select from 1 - 20 (For instance, the user adding the event may say "4.")
+- Select last day a user can RSVP.
+- Select last time a user can rsvp
+
+a user seeing the event then clicking on the "RSVP" button will then see a pop-up to select number of guests they are rsvp-ing for. That number cannot be higher than the number here (- Enter total quantity for each user select from 1 - 20 (For instance, the user adding the event may say "4.")
+
+
+
